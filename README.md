@@ -6,7 +6,7 @@ First set up the input and output path either using BIGTINCAN_INPUT and BIGTINCA
 
 ## Running the projects
 
-Run the using the following command:
+Run the job using the following command:
 ```
 sbt run
 ```
