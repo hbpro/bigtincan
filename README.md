@@ -1,4 +1,6 @@
-#How To Run
+#Bigtincan Data Project
+
+##How To Run
 
 First set up the input and output path either using BIGTINCAN_INPUT and BIGTINCAN_OUTPUT system variables or by changing the utils.SystemParams object
 
